@@ -80,7 +80,7 @@ If you encounter further issues or you want to know more about GCP, you can chec
 
 For lesson 2.4 we need to setup a Github token.
 
-### Guthib Token Setup
+### GitHub Token Setup
 
 - Setup [instructions](https://drive.google.com/file/d/1jbYWTyVWoKPofnItN-38Xe-8dvbJcV4R/view?usp=sharing) to extract Github token.
 
